@@ -1,0 +1,5 @@
+.settings/
+.mymetadata
+WebRoot/META-INF/MANIFEST.MF
+WebRoot/WEB-INF/classes/hbase-site.xml
+WebRoot/WEB-INF/classes/
